@@ -2,146 +2,146 @@
     "Collections":[
         {
             "name":"Nature",
-            "preview_url":"",
-            "preview_thumbnail_url":""
+            "preview_url":"https://raw.githubusercontent.com/ajemvuma/NickNice/master/2017-12-31%2003.13.13%201-01.jpeg",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/ajemvuma/NickNice/master/2017-12-31%2003.13.13%201-01.jpeg"
         },
         {
-            "name":"Phones",
-            "preview_url":"",
-            "preview_thumbnail_url":""
+            "name":"Technology",
+            "preview_url":"https://raw.githubusercontent.com/ajemvuma/NickNice/master/2018-02-10%2011.45.22%201.jpg",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/ajemvuma/NickNice/master/2018-02-10%2011.45.22%201.jpg"
         },
         {
             "name":"Winter",
-            "preview_url":"",
-            "preview_thumbnail_url":""
+            "preview_url":"https://raw.githubusercontent.com/ajemvuma/NickNice/master/2018-03-01%2003.22.18%201.jpg",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/ajemvuma/NickNice/master/2018-03-01%2003.22.18%201.jpg"
         }
     ],
     
 "Wallpapers":[
         {
-            "name":"",
+            "name":"Fire",
             "author":"Nick Nice",
-            "collections":"",
+            "collections":"Nature",
+            "url":"https://raw.githubusercontent.com/ajemvuma/NickNice/master/2017-12-31%2003.13.13%201-01.jpeg",
+            "downloadable":"true"
+        },
+        {
+            "name":"Rocks",
+            "author":"Nick Nice",
+            "collections":"Nature",
+            "url":"https://raw.githubusercontent.com/ajemvuma/NickNice/master/2018-02-01%2002.21.54%201_01.jpg",
+            "downloadable":"true"
+        },
+        {
+            "name":"Fence",
+            "author":"Nick Nice",
+            "collections":"Nature",
+            "url":"https://raw.githubusercontent.com/ajemvuma/NickNice/master/2018-02-08%2001.51.50%201.jpg",
+            "downloadable":"true"
+        },
+        {
+            "name":"Rose",
+            "author":"Nick Nice",
+            "collections":"Nature",
+            "url":"https://raw.githubusercontent.com/ajemvuma/NickNice/master/2018-02-08%2011.03.10%201.jpg",
+            "downloadable":"true"
+        },
+        {
+            "name":"Rose",
+            "author":"Nick Nice",
+            "collections":"Nature",
+            "url":"https://raw.githubusercontent.com/ajemvuma/NickNice/master/2018-02-08%2011.07.44%201.jpg",
+            "downloadable":"true"
+        },
+        {
+            "name":"Huawei Mate 10 Pro",
+            "author":"Nick Nice",
+            "collections":"Technology",
+            "url":"https://raw.githubusercontent.com/ajemvuma/NickNice/master/2018-02-10%2011.45.22%201.jpg",
+            "downloadable":"true"
+        },
+        {
+            "name":"Huawei Mate 10 Pro",
+            "author":"Nick Nice",
+            "collections":"Technology",
+            "url":"https://raw.githubusercontent.com/ajemvuma/NickNice/master/2018-02-10%2011.48.45%201.jpg",
+            "downloadable":"true"
+        },
+        {
+            "name":"Huawei Mate 10 Pro",
+            "author":"Nick Nice",
+            "collections":"Technology",
+            "url":"https://raw.githubusercontent.com/ajemvuma/NickNice/master/2018-02-14%2010.05.54%201.jpg",
+            "downloadable":"true"
+        },
+        {
+            "name":"Sky",
+            "author":"Nick Nice",
+            "collections":"Nature",
+            "url":"https://raw.githubusercontent.com/ajemvuma/NickNice/master/2018-02-25%2008.07.42%201.jpg",
+            "downloadable":"true"
+        },
+        {
+            "name":"Leaf",
+            "author":"Nick Nice",
+            "collections":"Nature",
+            "url":"https://raw.githubusercontent.com/ajemvuma/NickNice/master/2018-02-25%2008.11.53%201.jpg",
+            "downloadable":"true"
+        },
+        {
+            "name":"Weed in a sunset",
+            "author":"Nick Nice",
+            "collections":"https://raw.githubusercontent.com/ajemvuma/NickNice/master/2018-02-25%2008.18.35%201.jpg",
             "url":"",
             "downloadable":"true"
         },
         {
-            "name":"",
+            "name":"Winter Wonderland",
             "author":"Nick Nice",
-            "collections":"",
-            "url":"",
+            "collections":"Winter, Nature",
+            "url":"https://raw.githubusercontent.com/ajemvuma/NickNice/master/2018-03-01%2003.22.18%201.jpg",
             "downloadable":"true"
         },
         {
-            "name":"",
+            "name":"Conection",
             "author":"Nick Nice",
-            "collections":"",
-            "url":"",
+            "collections":"Winter, Technology",
+            "url":"https://raw.githubusercontent.com/ajemvuma/NickNice/master/2018-03-01%2004.34.22%201.jpg",
             "downloadable":"true"
         },
         {
-            "name":"",
+            "name":"Chain",
             "author":"Nick Nice",
-            "collections":"",
-            "url":"",
+            "collections":"Winter",
+            "url":"https://raw.githubusercontent.com/ajemvuma/NickNice/master/2018-03-01%2004.44.01%201.jpg",
             "downloadable":"true"
         },
         {
-            "name":"",
+            "name":"Tree Branch",
             "author":"Nick Nice",
-            "collections":"",
-            "url":"",
+            "collections":"Winter, Nature",
+            "url":"https://raw.githubusercontent.com/ajemvuma/NickNice/master/2018-03-01%2004.50.45%201.jpg",
             "downloadable":"true"
         },
         {
-            "name":"",
+            "name":"Leaf",
             "author":"Nick Nice",
-            "collections":"",
-            "url":"",
+            "collections":"Winter, Nature",
+            "url":"https://raw.githubusercontent.com/ajemvuma/NickNice/master/2018-03-01%2005.02.43%201.jpg",
             "downloadable":"true"
         },
         {
-            "name":"",
+            "name":"Road Work",
             "author":"Nick Nice",
-            "collections":"",
-            "url":"",
+            "collections":"Winter",
+            "url":"https://raw.githubusercontent.com/ajemvuma/NickNice/master/2018-03-01%2005.40.49%201.jpg",
             "downloadable":"true"
         },
         {
-            "name":"",
+            "name":"Cars",
             "author":"Nick Nice",
-            "collections":"",
-            "url":"",
-            "downloadable":"true"
-        },
-        {
-            "name":"",
-            "author":"Nick Nice",
-            "collections":"",
-            "url":"",
-            "downloadable":"true"
-        },
-        {
-            "name":"",
-            "author":"Nick Nice",
-            "collections":"",
-            "url":"",
-            "downloadable":"true"
-        },
-        {
-            "name":"",
-            "author":"Nick Nice",
-            "collections":"",
-            "url":"",
-            "downloadable":"true"
-        },
-        {
-            "name":"",
-            "author":"Nick Nice",
-            "collections":"",
-            "url":"",
-            "downloadable":"true"
-        },
-        {
-            "name":"",
-            "author":"Nick Nice",
-            "collections":"",
-            "url":"",
-            "downloadable":"true"
-        },
-        {
-            "name":"",
-            "author":"Nick Nice",
-            "collections":"",
-            "url":"",
-            "downloadable":"true"
-        },
-        {
-            "name":"",
-            "author":"Nick Nice",
-            "collections":"",
-            "url":"",
-            "downloadable":"true"
-        },
-        {
-            "name":"",
-            "author":"Nick Nice",
-            "collections":"",
-            "url":"",
-            "downloadable":"true"
-        },
-        {
-            "name":"",
-            "author":"Nick Nice",
-            "collections":"",
-            "url":"",
-            "downloadable":"true"
-        },
-        {
-            "name":"",
-            "author":"Nick Nice",
-            "collections":"",
-            "url":"",
+            "collections":"Winter",
+            "url":"https://raw.githubusercontent.com/ajemvuma/NickNice/master/2018-03-01%2010.28.45%201_01.jpg",
             "downloadable":"true"
         },
         {
