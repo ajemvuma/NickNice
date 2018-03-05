@@ -14,6 +14,11 @@
             "name":"Winter",
             "preview_url":"https://raw.githubusercontent.com/ajemvuma/NickNice/master/2018-03-01%2003.22.18%201.jpg",
             "preview_thumbnail_url":"https://raw.githubusercontent.com/ajemvuma/NickNice/master/2018-03-01%2003.22.18%201.jpg"
+        },
+        {
+            "name":"Black and white",
+            "preview_url":"https://raw.githubusercontent.com/ajemvuma/NickNice/master/5.jpg",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/ajemvuma/NickNice/master/5.jpg"
         }
     ],
     
@@ -91,21 +96,21 @@
         {
             "name":"Weed in a sunset",
             "author":"Nick Nice",
-            "collections":"https://raw.githubusercontent.com/ajemvuma/NickNice/master/2018-02-25%2008.18.35%201.jpg",
-            "url":"",
+            "collections":"Nature",
+            "url":"https://raw.githubusercontent.com/ajemvuma/NickNice/master/2018-02-25%2008.18.35%201.jpg",
             "downloadable":"true"
         },
         {
             "name":"Winter Wonderland",
             "author":"Nick Nice",
-            "collections":"Winter, Nature",
+            "collections":"Winter",
             "url":"https://raw.githubusercontent.com/ajemvuma/NickNice/master/2018-03-01%2003.22.18%201.jpg",
             "downloadable":"true"
         },
         {
             "name":"Conection",
             "author":"Nick Nice",
-            "collections":"Winter, Technology",
+            "collections":"Winter",
             "url":"https://raw.githubusercontent.com/ajemvuma/NickNice/master/2018-03-01%2004.34.22%201.jpg",
             "downloadable":"true"
         },
@@ -119,14 +124,14 @@
         {
             "name":"Tree Branch",
             "author":"Nick Nice",
-            "collections":"Winter, Nature",
+            "collections":"Winter",
             "url":"https://raw.githubusercontent.com/ajemvuma/NickNice/master/2018-03-01%2004.50.45%201.jpg",
             "downloadable":"true"
         },
         {
             "name":"Leaf",
             "author":"Nick Nice",
-            "collections":"Winter, Nature",
+            "collections":"Winter",
             "url":"https://raw.githubusercontent.com/ajemvuma/NickNice/master/2018-03-01%2005.02.43%201.jpg",
             "downloadable":"true"
         },
@@ -145,10 +150,94 @@
             "downloadable":"true"
         },
         {
-            "name":"",
+            "name":"OnePlus 5",
             "author":"Nick Nice",
-            "collections":"",
-            "url":"",
+            "collections":"Technology",
+            "url":"https://raw.githubusercontent.com/ajemvuma/NickNice/master/1.jpg",
+            "downloadable":"true"
+        },
+        {
+            "name":"OnePlus 5",
+            "author":"Nick Nice",
+            "collections":"Technology",
+            "url":"https://raw.githubusercontent.com/ajemvuma/NickNice/master/2.jpg",
+            "downloadable":"true"
+        },
+        {
+            "name":"iPhone 7 Plus vs OnePlus 5",
+            "author":"Nick Nice",
+            "collections":"Technology",
+            "url":"https://raw.githubusercontent.com/ajemvuma/NickNice/master/3.jpg",
+            "downloadable":"true"
+        },
+        {
+            "name":"Galaxy Note 8",
+            "author":"Nick Nice",
+            "collections":"Technology",
+            "url":"https://raw.githubusercontent.com/ajemvuma/NickNice/master/4.jpg",
+            "downloadable":"true"
+        },
+        {
+            "name":"Window",
+            "author":"Nick Nice",
+            "collections":"Black and white",
+            "url":"https://raw.githubusercontent.com/ajemvuma/NickNice/master/5.jpg",
+            "downloadable":"true"
+        },
+        {
+            "name":"Moonlight",
+            "author":"Nick Nice",
+            "collections":"Black and white",
+            "url":"https://raw.githubusercontent.com/ajemvuma/NickNice/master/6.jpg",
+            "downloadable":"true"
+        },
+        {
+            "name":"Google Pixel XL",
+            "author":"Nick Nice",
+            "collections":"Technology",
+            "url":"https://raw.githubusercontent.com/ajemvuma/NickNice/master/7.jpg",
+            "downloadable":"true"
+        },
+        {
+            "name":"Spidernet",
+            "author":"Nick Nice",
+            "collections":"Black and white",
+            "url":"https://raw.githubusercontent.com/ajemvuma/NickNice/master/8.jpg",
+            "downloadable":"true"
+        },
+        {
+            "name":"Tree",
+            "author":"Nick Nice",
+            "collections":"Black and white",
+            "url":"https://raw.githubusercontent.com/ajemvuma/NickNice/master/9.jpg",
+            "downloadable":"true"
+        },
+        {
+            "name":"Tree",
+            "author":"Nick Nice",
+            "collections":"Black and white",
+            "url":"https://raw.githubusercontent.com/ajemvuma/NickNice/master/10.jpg",
+            "downloadable":"true"
+        },
+        {
+            "name":"Leaf",
+            "author":"Nick Nice",
+            "collections":"Black and white",
+            "url":"https://raw.githubusercontent.com/ajemvuma/NickNice/master/11.jpg",
+            "downloadable":"true"
+        },
+        {
+            "name":"Google Pixel",
+            "author":"Nick Nice",
+            "collections":"Technology",
+            "url":"https://raw.githubusercontent.com/ajemvuma/NickNice/master/12.jpg",
+            "downloadable":"true"
+        },
+        {
+            "name":"Tree",
+            "author":"Nick Nice",
+            "collections":"Nature",
+            "url":"https://raw.githubusercontent.com/ajemvuma/NickNice/master/13.jpeg",
             "downloadable":"true"
         },
         {
@@ -157,85 +246,57 @@
             "collections":"",
             "url":"",
             "downloadable":"true"
-        },
-        {
+       }
+       {
             "name":"",
             "author":"Nick Nice",
             "collections":"",
             "url":"",
             "downloadable":"true"
-        },
-        {
+       },
+       {
             "name":"",
             "author":"Nick Nice",
             "collections":"",
             "url":"",
             "downloadable":"true"
-        },
-        {
+       },
+       {
             "name":"",
             "author":"Nick Nice",
             "collections":"",
             "url":"",
             "downloadable":"true"
-        },
-        {
+       },
+       {
             "name":"",
             "author":"Nick Nice",
             "collections":"",
             "url":"",
             "downloadable":"true"
-        },
-        {
+       },
+       {
             "name":"",
             "author":"Nick Nice",
             "collections":"",
             "url":"",
             "downloadable":"true"
-        },
-        {
+       },
+       {
             "name":"",
             "author":"Nick Nice",
             "collections":"",
             "url":"",
             "downloadable":"true"
-        },
-        {
+       },
+       {
             "name":"",
             "author":"Nick Nice",
             "collections":"",
             "url":"",
             "downloadable":"true"
-        },
-        {
-            "name":"",
-            "author":"Nick Nice",
-            "collections":"",
-            "url":"",
-            "downloadable":"true"
-        },
-        {
-            "name":"",
-            "author":"Nick Nice",
-            "collections":"",
-            "url":"",
-            "downloadable":"true"
-        },
-        {
-            "name":"",
-            "author":"Nick Nice",
-            "collections":"",
-            "url":"",
-            "downloadable":"true"
-        },
-        {
-            "name":"",
-            "author":"Nick Nice",
-            "collections":"",
-            "url":"",
-            "downloadable":"true"
-        },
-        {
+       },
+       {
             "name":"",
             "author":"Nick Nice",
             "collections":"",
